@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/93595633/205419103-347e47c6-11a7-4383-a34c-6430c9cf63d0.png">
 </div>
   
-## Hello everyone!! 👋
+## printf("Welcome to my profile!"); 
 
 <div align="center">
   <a href="https://github.com/betomuritiba">
